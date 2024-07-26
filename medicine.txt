@@ -1,0 +1,6 @@
+1|Panadol|GSK|100|Tablet|30|05/06/2022|05/06/2023
+2|Postone|GSK|100|Tablet|99|06/06/2022|06/06/2023
+3|Flagel|Deen|100|Tablet|100|09/10/2021|09/10/2022
+4|Disprine|Syed|5|Tablet|45|08/06/2017|08/06/2018
+5|fexet|GSK|9|Tablet|40|23/09/2021|23/09/2022
+6|Adoxa|Abott|200|Antibiotic|220|11/06/2023|11/06/2024
